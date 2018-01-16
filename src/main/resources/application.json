@@ -1,0 +1,10 @@
+[
+  {
+    "name":"apple",
+    "className":"com.zhumin.ioc.entity.Apple"
+  },
+  {
+    "name":"banana",
+    "className":"com.zhumin.ioc.entity.Banana"
+  }
+]
